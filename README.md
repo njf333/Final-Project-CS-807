@@ -19,11 +19,11 @@ ultrasonic sensor. The trig pin data will be sent to the (5) digital pin in the 
   <h3> Device Information </h3>
   
   The device used:
-• 1 bread board,
-• 1 ultrasonic sensor,
-• 1 Arduino uno,
-• 4 male to male jumper wires,
-• 1 USB Cable A male to B male.
+<br>1 bread board,
+<br>1 ultrasonic sensor,
+<br>1 Arduino uno,
+<br>4 male to male jumper wires,
+<br>1 USB Cable A male to B male.
 
 ![image](https://user-images.githubusercontent.com/103396922/184796170-dcfd69e8-0265-4246-babc-29c7e4674df3.png)
 
