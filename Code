@@ -183,12 +183,3 @@ void loop() { //infinite loopy
 
   delay(200);
 }
-
-
-
-
-
-
-
-arduino_code_hardware.txt
-Displaying arduino_code_hardware.txt.
