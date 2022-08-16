@@ -16,13 +16,14 @@ ultrasonic sensor. The trig pin data will be sent to the (5) digital pin in the 
   ![image](https://user-images.githubusercontent.com/103396922/184796065-8002c06f-707e-4af6-abfe-632a66b858de.png)
 
 Repository Contents
+  
 Here is a map of all the top-level contents listed in the repository:
 
-/Diagrams - This is where the image files for this readme are.
-/Python code - This is the place where the code is divided into segments, for better understanding and the main.py file.
-/README.md - This is the file you're reading now!
-/Final project.pdf - This is the project report.
-/Code - This is the C++ code that I have worked on.
+<br> /Diagrams - This is where the image files for this readme are.
+<br> /Python code - This is the place where the code is divided into segments, for better understanding and the main.py file.
+<br> /README.md - This is the file you're reading now!
+<br> /Final project.pdf - This is the project report.
+<br> /Code - This is the C++ code that I have worked on.
   
   <h3> Device Information </h3>
   
