@@ -33,7 +33,8 @@ ultrasonic sensor. The trig pin data will be sent to the (5) digital pin in the 
 <h3> Usage </h3>
 
 I have successfully implemented hand gestures controlled computer system using the distance reading concept, which means the volume on the computer will turn up if there is a specific distance between the hand and the sensors and the same implies to all the gestures.
-<br> A. Action 1
+
+A. Action 1
 
 When a hand is at a specific distance from the sensors, the volume turns up. The Arduino uno will check if the distance is between 2cm and 10cm if yes then it will print “VOLUMEUP” in the serial.
 
@@ -42,9 +43,11 @@ B. Action 2
 When a hand is at a specific distance from the sensors, the volume turns down. The Arduino uno will check if the distance is between 12cm and 20cm if yes then it will print “VOLUME-DOWN” in the serial.
 
 C. Action 3
+
 When a hand is at a specific distance from the sensors, the brightness turns high. The Arduino uno will check if the distance is between 22cm and 30cm if yes then it will print “BRIGHTNESS-UP” in the serial.
 
 D. Action 4
+
 When a hand is at a specific distance from the sensors, the brightness turns low. The Arduino uno will check if the distance is between 32cm and 50cm if yes then it will print “BRIGHTNESS-DOWN” in the serial.
 
 
